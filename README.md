@@ -53,21 +53,3 @@ RepoVault explores a controlled alternative: selectively exposing approved repos
 4. The server retrieves approved content through the GitHub API.
 5. The application returns a sanitized, read-only response.
 
-## Current Progress
-
-- [x] Project requirements and architecture
-- [x] Repository structure
-- [x] Initial security model
-- [ ] Next.js application setup
-- [ ] Supabase database integration
-- [ ] GitHub App integration
-- [ ] Repository allowlisting
-- [ ] Source-code viewer
-- [ ] Commit history viewer
-- [ ] Administrative dashboard
-- [ ] Authorization tests
-- [ ] Deployment and security review
-
-## Important
-
-This repository currently contains a project scaffold and design documentation. Features marked as pending have not yet been implemented or security-tested.
